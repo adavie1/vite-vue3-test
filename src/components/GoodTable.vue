@@ -21,17 +21,17 @@
 
   <script>
 
-// import rows from "./data/sites.json"
+import rows from "./data/sites.json"
 
   export default {
     name: 'good-table',
 
     props: {
-
+/*
     rows: {
      type: Array
      }
-
+*/
     },
 
     data() {
